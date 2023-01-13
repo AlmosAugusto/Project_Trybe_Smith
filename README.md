@@ -17,7 +17,8 @@
   </summary><br>
   
   - Typescript
-  - NodeJs
+  - Node Express
+  - MySQL
   
 </details>
 
@@ -27,16 +28,7 @@
   </summary><br>
   Neste projeto, foi verificado como:
 
-* Realizar operações assíncronas utilizando callbacks;
-* Realizar operações assíncronas utilizando Promises;
-* Ler e escrever arquivos localmente com NodeJS;
-* Escrever seus próprios scripts que criam e consomem Promises;
-* Reescrever código que usa callbacks para que use Promises;
-* Realizar chamadas de funções de forma consciente;
-* Entender os conceitos básicos de como o JavaScript funciona;
-* Detectar e solucionar problemas no código de forma mais objetiva;
-* Entender a diferença entre execução síncrona e assíncrona;
-* Entender o que é o HTTP, o que é uma API e o que os dois têm a ver com o Express;
-* Escrever APIs utilizando Node e Express;
-* Entender a estrutura de uma aplicação Express e como organizar seu código;
-* Criar rotas e aplicar middlewares.
+* Arquitetar e desenvolver alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
+* Declarar variáveis e funções com tipagens Typescript;
+* Construir uma API Node Express utilizando o Typescript.
+* Rodar a aplicação em containers usando o Docker.
